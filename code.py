@@ -3,7 +3,7 @@
 def cadastro():
     """
     Esta função recebe os dados do usuário em forma de cadastro e o retorna.
-    Os dados podem ser salvoss em um conjunto.
+    Os dados podem ser salvos em um conjunto.
     :return: Retorna os dados do usuário.
     """
     message_list = ['Para que o cadastro seja feito sem erros, siga a seguinte ordem:',
